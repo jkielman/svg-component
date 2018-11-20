@@ -1,0 +1,13 @@
+$sansFontStack:'Colfax Regular', "Helvetica Neue",HelveticaNeue,Helvetica,sans-serif;
+$blk: #2E2F30;
+
+body {color:$blk;
+      box-sizing: border-box;
+      font-family:$sansFontStack;
+      line-height:1.2;
+      padding:10px;
+      text-align:center;
+}
+
+
+h1 { font-size:$sansFontStack; font-weight:700; }
